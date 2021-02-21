@@ -1,0 +1,9 @@
+name: PTLAddon
+version: 1.0-SNAPSHOT
+main: littlezhou233.diamond.Diamond
+softdepend: [PlaceholderAPI]
+authors: [Littlezhou233, ChengZhiFy]
+commands:
+  ptladdon:
+    aliases: [diamond]
+  vote:
